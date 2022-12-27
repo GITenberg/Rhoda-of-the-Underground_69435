@@ -1,0 +1,48 @@
+_repo: Rhoda-of-the-Underground_69435
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+    wikipedia: https://en.wikipedia.org/wiki/Troy_Kinney
+creator:
+  author:
+    agent_name: Kelly, Florence Finch
+    alias: Finch Kelly, Florence
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '7939'
+    url: http://www.gutenberg.org/2009/agents/7939
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Finch_Kelly
+description: ''
+gutenberg_issued: '2022-11-28'
+identifiers:
+  gutenberg: '69435'
+  lccn: 09029503
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433076067465&view=1up&seq=21&skin=2021
+pgterms:marc905: 20220408115454kelly
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The New York Public Library's Digital Collections)
+publication_note: 'United States: Sturgis & Walton Company,1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- Fiction'
+- !lcsh 'Underground Railroad -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Rhoda of the Underground
+url: http://www.gutenberg.org/ebooks/69435
